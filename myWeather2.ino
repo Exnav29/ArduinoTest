@@ -1,14 +1,12 @@
 /*********************************************************************
 This is an example of a solution which employs Arduino along with the 
+DHT11 Temperature and Humidy sensor and SSD1306 display
 
 This example is for a 128x64 size display using I2C to communicate
 3 pins are required to interface (2 I2C and one reset)
 
-Adafruit invests time and resources providing this open source code, 
-please support Adafruit and open-source hardware by purchasing 
-products from Adafruit!
 
-Written by Limor Fried/Ladyada  for Adafruit Industries.  
+Written by Johnathan Lightfoot
 BSD license, check license.txt for more information
 All text above, and the splash screen must be included in any redistribution
 *********************************************************************/
